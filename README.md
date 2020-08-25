@@ -7,7 +7,7 @@ Inspired by our way at university of calculating the Two's Complement of a numbe
 use the defined Function <code>Zkpl_n(x)</code> which takes the number x to convert and the length n
 for the output.
 <p>
-So if you would use Zkpl_4(-2) you would calculate the result as following:
+  So if you would use <code>Zkpl_4(-2)</code> you would calculate the result as following:
   <ol>
     <li> We calculate the <strong>positive</strong> binary value for the number. So 2 -> 10. </li>
     <li> We add as many <strong>0</strong> to the front of the number until we reach the total length of n. In this case: 10 -> 0010 </li>
