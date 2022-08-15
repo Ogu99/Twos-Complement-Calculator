@@ -22,7 +22,7 @@ As above explained enter the to values for x and n: <code>First enter the number
 
 Be aware of
 -
-If you enter a number <code>x = 4</code> but use <code>n = 2</code> an error will occur because you have to use ate least
+If you enter a number <code>x = 4</code> but use <code>n = 2</code> an error will occur because you have to use at least
 the minimum length of the number's binary value.
 <p>
 And also be aware that this is definitely not the best solution for this (especially when using <code>Python</code>) but
